@@ -4,7 +4,12 @@
 
 Index repository with the step-by-step guide for building the author listing endpoint, covering everything from creating the Service and Interface to the Controller and testing the endpoint.
 
-[![Controller, Interface and Service Flow](https://github.com/joycequoos/Controllers_Services/raw/main/img/01_Fx_Controller_Interface_Service_2.jpg)](https://github.com/joycequoos/Controllers_Services/blob/main/img/01_Fx_Controller_Interface_Service_2.jpg)
+### Controller, Interface and Service Flow
+
+<img width="256" height="400" alt="image" src="https://github.com/user-attachments/assets/64056a0e-47c0-40c5-a484-9fd105b21aea" />
+
+The Controller connects to the Interface, which connects to the Service, and the Service connects to the Database to perform the CRUD operations.
+
 
 ## Step by Step
 
